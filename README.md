@@ -293,7 +293,7 @@ A: 使用命令行参数 `python __init__.py --mode 2`
 
 **🌟 如果这个项目对你有帮助，请给个Star！**
 
-[](https://star-history.com/#chandou-code/YuanShen-Auto-Key)
+[![Star History Chart](https://api.star-history.com/svg?repos=chandou-code/yuanshen-auto-key&type=Date)](https://star-history.com/#chandou-code/yuanshen-auto-key&Date)
 
 
 </div>
