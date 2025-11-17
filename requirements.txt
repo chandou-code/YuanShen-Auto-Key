@@ -1,0 +1,10 @@
+# 核心依赖
+Pillow>=10.0.0
+pynput>=1.7.6
+psutil>=5.9.0
+
+# GUI相关（tkinter是Python标准库，无需安装）
+
+# 开发依赖（可选）
+# pytest>=7.0.0
+# black>=22.0.0
