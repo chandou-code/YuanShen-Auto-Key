@@ -44,7 +44,7 @@ YuanShen Auto Key 是一个专为原神游戏设计的自动化按键工具。�
 1. **下载便携版**
    ```bash
    # 克隆项目
-   git clone https://github.com/your-username/yuanshen-auto-key.git
+   git clone https://github.com/chandou-code/yuanshen-auto-key.git
    cd yuanshen-auto-key
    
    # 运行一键便携版创建器
@@ -62,7 +62,7 @@ YuanShen Auto Key 是一个专为原神游戏设计的自动化按键工具。�
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-username/yuanshen-auto-key.git
+   git clone https://github.com/chandou-code/yuanshen-auto-key.git
    cd yuanshen-auto-key
    ```
 
@@ -241,7 +241,7 @@ def auto_space_f(self):
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/yuanshen-auto-key.git
+git clone https://github.com/chandou-code/yuanshen-auto-key.git
 cd yuanshen-auto-key
 
 # 创建虚拟环境
@@ -297,3 +297,4 @@ A: 使用命令行参数 `python __init__.py --mode 2`
 
 
 </div>
+
